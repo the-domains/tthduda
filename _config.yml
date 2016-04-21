@@ -1,0 +1,28 @@
+name: tthduda
+favicon: null
+layout_spectrum: 0.27980160037986934
+typography_spectrum: 0.9492489972617477
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7661456479690969
+  lightness: 0.833841759711504
+  saturation: 0.19790180400013924
+  rhythmicContrast: 0.20837546535767615
+purpose: []
