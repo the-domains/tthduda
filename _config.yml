@@ -2,6 +2,7 @@ name: tthduda
 favicon: null
 layout_spectrum: 0.27980160037986934
 typography_spectrum: 0.9492489972617477
+title: 'Test Site '
 cta:
   domain: null
   bucket: null
