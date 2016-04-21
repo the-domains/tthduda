@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[tthduda]]></title>
+        <description><![CDATA[tthduda]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 21 Apr 2016 22:38:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>new post - busting into the world of Grid for the first time with this test site </p>]]></description>
+            <link>undefinednew-post-busting-into-the-world-of-grid-for-the-first-time/index.html</link>
+            <guid isPermaLink="false">a85baf97-9b0b-449d-a392-f8b9f6494c43</guid>
+            <pubDate>Thu, 21 Apr 2016 22:38:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
